@@ -1,0 +1,96 @@
+header {
+  font-family: 'Titillium Web', sans-serif;
+}
+header .wrap {
+  height: 930px;
+  width: 100%;
+    
+}
+header .wrap .header {
+  padding: 30px 60px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header .wrap .header h1 {
+  font-size: 0;
+}
+header .wrap .header h1 a {
+  font-size: 0;
+  display: block;
+  background-image: url(../img/mylogo_1.png);
+  width: 200px;
+  height: 80px;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+header .wrap .header nav {
+
+}
+header .wrap .header nav ul {
+
+}
+header .wrap .header nav ul li {
+
+}
+header .wrap .header nav ul li button.menu {
+  padding-right: 40px;
+  border: none;
+  background-color: transparent;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 800;
+  font-size: 25px;
+  cursor: pointer;
+}
+header .wrap .header nav ul li button.menu:hover{
+  text-decoration: underline;
+  text-decoration-color: #E5A732;
+  text-decoration-thickness: 8px;
+  text-underline-offset: 15px;
+  color: #E5A732;
+}
+header .wrap .firstpage {
+  position: relative;
+}
+header .wrap .firstpage .first{
+
+}
+header .wrap .firstpage .first h2 {
+  font-size: 175px;
+  font-weight: 900;
+  padding: 0 100px;
+  padding-top: 150px;
+}
+header .wrap .firstpage .first span.underline{
+  width: 900px;
+  height: 111px;
+  left: 84px;
+  bottom: 210px;
+}
+header .wrap .firstpage .first h2 span.font {
+  padding-left: 20px;
+  font-size: 65px;
+  color: #F3EFDA;
+  text-stroke: 2px #222;
+  -webkit-text-stroke: 2px #222;
+}
+header .wrap .firstpage .second{
+
+}
+header .wrap .firstpage .second h3{
+  font-size: 200px;
+  font-weight: 900;
+  padding: 0 100px;
+}
+header .wrap .firstpage .second span.underline{
+  width: 1180px;
+  height: 121px;
+  left: 60px;
+  bottom: 0;
+}
+/* .slick-initialized .slick-slide{
+  display: flex !important;
+  padding-right: 80px;
+} */

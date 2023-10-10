@@ -1,0 +1,23 @@
+footer{
+  background-color: #E5A732;
+}
+footer .wrap{
+  padding: 15px 0;
+  width: 980px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 1.5;
+}
+footer .wrap span{
+  font-size: 14px;
+  color: #F3EFDA;
+  font-weight: bold;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+footer .wrap p.copyright{
+  font-size: 14px;
+  color: #F3EFDA;
+  font-weight: bold;
+}
