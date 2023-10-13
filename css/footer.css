@@ -21,3 +21,17 @@ footer .wrap p.copyright{
   color: #F3EFDA;
   font-weight: bold;
 }
+footer .btop{
+  display: flex;
+  position: fixed;
+  bottom: 50px;
+  right: 48px;
+  font-size: 0;
+  width: 130px;
+  height: 130px;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: all 1s;
+  background-image: url(../img/logo_up2.png);
+  background-size: 91%;
+}
