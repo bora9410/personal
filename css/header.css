@@ -15,9 +15,6 @@ header .wrap .header {
 }
 header .wrap .header h1 {
   font-size: 0;
-}
-header .wrap .header h1 a {
-  font-size: 0;
   display: block;
   background-image: url(../img/mylogo_1.png);
   width: 200px;
@@ -25,6 +22,10 @@ header .wrap .header h1 a {
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
+  cursor: pointer;
+}
+header .wrap .header h1 a {
+
 }
 header .wrap .header nav {
 
@@ -58,36 +59,37 @@ header .wrap .firstpage .first{
 
 }
 header .wrap .firstpage .first h2 {
-  font-size: 175px;
+  font-size: 170px;
   font-weight: 900;
   padding: 0 100px;
-  padding-top: 150px;
+  padding-top: 100px;
 }
 header .wrap .firstpage .first span.underline{
-  width: 900px;
-  height: 111px;
+  width: 878px;
+  height: 105px;
   left: 84px;
-  bottom: 210px;
+  bottom: 230px;
 }
 header .wrap .firstpage .first h2 span.font {
   padding-left: 20px;
   font-size: 65px;
-  color: #F3EFDA;
-  -webkit-text-stroke: 2px #222;
+  color: #222;
+  /*! -webkit-text-stroke: 2px #222; */
+  font-weight: 900;
 }
 header .wrap .firstpage .second{
 
 }
 header .wrap .firstpage .second h3{
-  font-size: 200px;
+  font-size: 185px;
   font-weight: 900;
   padding: 0 100px;
 }
 header .wrap .firstpage .second span.underline{
-  width: 1180px;
-  height: 121px;
+  width: 1107px;
+  height: 112px;
   left: 60px;
-  bottom: 0;
+  bottom: 30px;
 }
 header .wrap .firstpage p.mob{
   visibility: hidden;

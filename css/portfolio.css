@@ -120,6 +120,8 @@ padding-bottom: 100px;
 }
 #portfolio .wrap ul.slick-dots li.slick-active button {
   background-color: #E5A732;
+  width: 20px;
+  height: 20px;
 }
 .slick-initialized .slick-slide{
   display: flex !important;
