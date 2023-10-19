@@ -26,27 +26,39 @@
     font-weight: 800;
     padding: 0;
   }
+  header .wrap .firstpage .first h2::before{
+    width: 80%;
+    height: 40px;
+    top: 7px;
+    left: 0px;
+  }
   header .wrap .firstpage .first h2 span.font{
     font-size: 35px;
     font-weight: 700;
   }
-  header .wrap .firstpage .first span.underline{
+/*   header .wrap .firstpage .first span.underline{
     width: 85%;
     height: 40px;
     top: 208px;
     left: 30px;
-  }
+  } */
   header .wrap .firstpage .second h3{
     font-size: 50px;
     font-weight: 800;
     padding: 0;
   }
-  header .wrap .firstpage .second span.underline{
+  header .wrap .firstpage .second h3::before{
+    width: 100%;
+    height: 40px;
+    top: 7px;
+    left: 0;
+  }
+/*   header .wrap .firstpage .second span.underline{
     width: 77%;
     height: 40px;
     top: 258px;
     left: 44px;
-  }
+  } */
   header .wrap .firstpage p.mob{
     font-size: 15px;
     text-align: center;
@@ -300,27 +312,39 @@
     font-weight: 800;
     padding: 0;
   }
+  header .wrap .firstpage .first h2::before{
+    width: 85%;
+    height: 51px;
+    top: 9px;
+    left: 0px;
+  }
   header .wrap .firstpage .first h2 span.font{
     font-size: 40px;
     font-weight: 700;
   }
-  header .wrap .firstpage .first span.underline{
+/*   header .wrap .firstpage .first span.underline{
     width: 85%;
     height: 51px;
     top: 208px;
     left: 30px;
-  }
+  } */
   header .wrap .firstpage .second h3{
     font-size: 64px;
     font-weight: 800;
     padding: 0;
   }
-  header .wrap .firstpage .second span.underline{
+  header .wrap .firstpage .second h3::before{
+    width: 100%;
+    height: 46px;
+    bottom: 7px;
+    left: 0px;
+  }
+/*   header .wrap .firstpage .second span.underline{
     width: 77%;
     height: 46px;
     bottom: 276px;
     left: 57px;
-  }
+  } */
   header .wrap .firstpage p.mob{
     font-size: 17px;
     text-align: center;
