@@ -76,12 +76,6 @@ header .wrap .firstpage .first h2::before{
   bottom: 0px;
   z-index: -1;
 }
-/* header .wrap .firstpage .first span.underline{
-  width: 878px;
-  height: 105px;
-  left: 84px;
-  bottom: 230px;
-} */
 header .wrap .firstpage .first h2 span.font {
   padding-left: 20px;
   font-size: 65px;
@@ -108,12 +102,6 @@ header .wrap .firstpage .second h3::before{
   bottom: 0px;
   z-index: -1;
 }
-/* header .wrap .firstpage .second span.underline{
-  width: 1107px;
-  height: 112px;
-  left: 60px;
-  bottom: 30px;
-} */
 header .wrap .firstpage p.mob{
   visibility: hidden;
 }

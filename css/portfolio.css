@@ -47,10 +47,6 @@ padding-bottom: 100px;
   display: flex;
   flex-direction: column;
 }
-/* #portfolio .wrap div .txt-container .txtbox-1 p {
-  font-size: 22px;
-  color: #5F5F5F;
-} */
 #portfolio .wrap div .txt-container .txtbox-1 span {
   font-size: 24px;
   color: #5F5F5F;
@@ -106,7 +102,6 @@ padding-bottom: 100px;
   letter-spacing: -20px;
   font-weight: 900;
   color: rgba(229, 167, 0, 0.15);
-  /*! left: 30px; */
 }
 #portfolio .wrap div figure img {
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
